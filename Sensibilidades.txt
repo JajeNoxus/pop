@@ -1,0 +1,15 @@
+Sensivity Matcher
+0.0281145629882812 - 1500 dp
+(“alt” + “backspace”) - calcular 360
+(“alt” + ”-”) - diminuir
+(“alt” + “=”) - aumentar
+
+Counter Strike 1.6
+Sense: 1.27793468128551 - 1500 dpi hipfire
+
+Call of duty MWIII
+Sense: 4.00 - 1600 dpi hipfire legacy
+Sense: 4.26 - 1500 dpi hipfire legacy
+Sense: 5.28 - 1500 dpi ads relative "1.77" sense do hipfire do cs no ads relativo do cod
+Sense: 5.26 - 1500 dpi ads legacy (0.81 multiplicador de sense ao mirar) sense do hip fire no ads legacy
+Sense: 6.46 - 1500 dpi ads relative "0" sense do hipfire do cs no ads relativo "0" do cod
